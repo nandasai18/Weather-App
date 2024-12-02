@@ -1,4 +1,4 @@
-const API_KEY = "3540ed5323b3e51df96ad6cf38f42cba";
+const API_KEY = "ab17aac9ef8a50b5269c32bb2b9";
 const DAY_OF_THE_WEEK = ["sun", "mon", "tue", "wed", "thu", "fri", "sat"];
 const getDAY = (datevalue) => DAY_OF_THE_WEEK[new Date(datevalue).getDay()];
 const ENDPOINTS = {
